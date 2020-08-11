@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-MAINTAINER kramos <markosrendell@gmail.com>
+MAINTAINER pavelsykora <developer@testuje.net>
 
 RUN apk add --update zip
 
